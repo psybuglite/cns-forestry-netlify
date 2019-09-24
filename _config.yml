@@ -10,11 +10,11 @@ footer_description: Your success is our success. We are driven by a motivation t
 
 # Handling Reading
 charset: 'utf-8'
-pagination:
-  enabled: true
-  permalink: '/:num/'
-  title: ':title - :num'
-  paginate_path: ":num"
+# pagination:
+#   enabled: true
+#   permalink: '/:num/'
+#   title: ':title - :num'
+#   paginate_path: ":num"
 
 
 # Main navigation
@@ -109,14 +109,14 @@ collections:
  
 
 # Defaults
-defaults:
-  - scope:
-      type: blog
-    values:
-      permalink: /:collection/:year/:month/:day/:title/
-      image:
-      is_blog: true
-      layout: blog
+# defaults:
+#   - scope:
+#       type: blog
+#     values:
+#       permalink: /:collection/:year/:month/:day/:title/
+#       image:
+#       is_blog: true
+#       layout: blog
 
 
 # Include folders
@@ -133,16 +133,16 @@ plugins:
 ############################################################
 # Site configuration for the Auto-Pages feature
 # The values here represent the defaults if nothing is set
-autopages:
+# autopages:
 
-  # Site-wide kill switch, disable here and it doesn't run at all 
-  enabled: true
+#   # Site-wide kill switch, disable here and it doesn't run at all 
+#   enabled: true
 
-  # Collection pages, omit to disable
-  collections:
-    layouts:
-      - 'blog-all.html'
-    enabled: true
+#   # Collection pages, omit to disable
+#   collections:
+#     layouts:
+#       - 'blog-all.html'
+#     enabled: true
   
 
 # Handling Sass

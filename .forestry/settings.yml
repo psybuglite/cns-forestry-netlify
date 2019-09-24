@@ -10,7 +10,7 @@ sections:
   create: all
   match: "**/*"
 - type: jekyll-pages
-  label: Pages
+  label: Root Pages
   create: all
 - type: directory
   path: _blog

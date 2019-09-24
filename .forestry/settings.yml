@@ -7,9 +7,6 @@ sections:
 - type: jekyll-pages
   label: Root pages
   create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
   path: _blog
   label: Blog

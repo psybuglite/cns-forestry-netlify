@@ -1,13 +1,13 @@
 ---
 title: Copyright
-permalink: /copyright/
+permalink: "/copyright/"
 layout: page
-description: CNS Marine Nigeria copyrught
+description: CNS Marine Nigeria copyright
 headline:
   image: "/uploads/privacy-policy.jpg"
-  title: "Copyright"
----
+  title: Copyright
 
+---
 ### Photography, Graphics, Videos and Multimedia
 
 In many cases, this website and related applications uses multimedia including graphics, images, audio and visual materials with permission of third party copyright holders. Reproduction of such materials is not permitted.

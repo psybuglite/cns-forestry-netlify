@@ -25,17 +25,6 @@ left_content:
 
     Our divers have the experience and training needed to perform underwater work which includes:
 
-    Pipeline and jacket inspections
-    Repair clamp installation
-    Installation of sub sea assemblies and risers
-    Hyperbaric welding
-    Wet stick welding and underwater cutting
-    Anode replacement
-    Anchoring pipelines
-    Underwater jetting
-    Underwater hot tapping
-    Cleaning cooling towers and holding ponds, dock inspections
-    Pier and dock repairs
-    Plug and abandonment, and general diving services.
+    Pipeline and jacket inspections, Repair clamp installation. Installation of sub sea assemblies and risers, Hyperbaric welding,Wet stick welding and underwater cutting, Anode replacement, Anchoring pipelines, Underwater jetting, Underwater hot tapping, Cleaning cooling towers and holding ponds, dock inspections, Pier and dock repairs, Plug and abandonment, and general diving services.
 
 ---

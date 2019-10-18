@@ -41,6 +41,12 @@ mainnav:
         url: /services/procurement/
       - page: Project Management
         url: /services/project-management/
+      - page: Onshore Inspection
+        url: /services/onshore-inspection/
+      - page: Subsea Engineering
+        url: /services/subsea-engineering/
+      - page: Vessel Provisioning
+        url: /services/vessel-provisioning/
   - section: Operations
     url: /operations/
   - section: Contact Us

@@ -25,4 +25,14 @@ left_content:
     CNS MARINE has a wide-ranging experience and absolute confidence in working with a Client project management team.
 
     Close contact and excellent cooperation between Client, Contractor and subcontractor is the basis for high quality project management and ensures that the successfully completed project comes up to expectation and timely delivery.
+    
+    We offer the following experienced and competent project management personnel that can work and interact with clients or act as client representative on the project and these include
+
+    - Project managers
+    - Project supervisors
+    - Project engineers
+    - Project coordinators 
+    - Project estimators 
+    - Project control engineers 
+    - Project estimators 
 ---

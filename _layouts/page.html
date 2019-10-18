@@ -16,7 +16,7 @@ layout: default
                 <div class="grid is-multi-col mostly-3">
                     {% assign pages = site.pages | where: 'show_on_services', 'true' %}
                     {% for page in pages %}
-                        <div class="rad-s brashshadow">
+                        <div class="rad-s brashshadow bg-primary">
                             <img src="{{ site.url }}{{ page.headline.image }}" alt="" class="desired-height-1qtr">
                             <div class="bg-primary wrapper">
                                 <h2 class="mt-1 co-white mb-2">{{ page.headline.title }}</h2>
@@ -86,7 +86,7 @@ layout: default
 
         {% if page.service == true %}
             <div class="main-wrap wrapper mx-auto">
-            <div class="grid is-multi-col mostly-2">
+                <div class="grid is-multi-col mostly-2">
                     <div>
                         <p>{{ page.left_content.body | markdownify }}</p>
                     </div>
@@ -132,7 +132,7 @@ layout: default
     {% endif %}
         
     <div class="pb-1 main-wrap wrapper mx-auto">
-        {{ content }}
+        {{ content | markdownify }}
     </div>
 </section>
 

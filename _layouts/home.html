@@ -12,7 +12,7 @@ layout: default
             <div class="grid is-multi-col mostly-3 py-2">
                 {% assign pages = site.pages | where: 'show_on_services', 'true' %}
                 {% for page in pages %}
-                    <div class="rad-s brashshadow">
+                    <div class="rad-s brashshadow bg-primary">
                         <img src="{{ site.url }}{{ page.headline.image }}" alt="" class="desired-height-1qtr">
                         <div class="bg-primary wrapper">
                             <h3 class="mt-1 co-white mb-2">{{ page.headline.title }}</h3>

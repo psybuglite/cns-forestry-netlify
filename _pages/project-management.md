@@ -33,6 +33,5 @@ left_content:
     - Project engineers
     - Project coordinators 
     - Project estimators 
-    - Project control engineers 
-    - Project estimators 
+    - Project control engineers
 ---

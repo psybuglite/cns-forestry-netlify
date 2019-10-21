@@ -5,6 +5,7 @@ permalink: "/services/procurement/"
 description: We are commited to excellent service with a drive to accomplish our goals.
 show_on_services: true
 grid: true
+order:  6
 service: true
 summary: Equipment and materials are acquired from reliable sources of supply on a worldwide basis, guaranteeing the specified quality and the committed delivery time.
 headline:

@@ -5,6 +5,7 @@ permalink: "/services/subsea-engineering/"
 description: We are commited to excellent service with a drive to accomplish our goals.
 show_on_services: true
 grid: true
+order:  2
 service: true
 summary: We deliver modern, professional and reliable solutions for our subsea and marine projects.
 headline:

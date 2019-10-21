@@ -10,8 +10,11 @@ layout: default
                 We specialize in providing high quality trained and experienced personnel for offshore engineering and integrity work as well as new construction and various subsea projects.
             </p>
             <div class="grid is-multi-col mostly-3 py-2">
-                {% assign pages = site.pages | where: 'show_on_services', 'true' %}
-                {% for page in pages %}
+                <!-- {% assign pages = site.pages | where: 'show_on_services', 'true' %} -->
+
+                {% assign sorted = site.pages | where: 'show_on_services', 'true' | sort: 'order' %}
+
+                {% for page in sorted %}
                     <div class="rad-s brashshadow bg-primary">
                         <img src="{{ site.url }}{{ page.headline.image }}" alt="" class="desired-height-1qtr">
                         <div class="bg-primary wrapper">

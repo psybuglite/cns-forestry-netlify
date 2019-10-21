@@ -22,6 +22,18 @@ track_record:
   summary: Our projects are executed in collaboration with CNS International
 
 projects:
+  - year: 2019
+    client: /uploads/client-4.png
+    vessel: 
+    location: 
+    description: Subsea Intervention and Construction Services
+    duration: 2019
+  - year: 2017
+    client: /uploads/ppsl-mobil.png
+    vessel: 
+    location: 
+    description: Offshore Facilities Managment Services
+    duration: 2017 – 2018
   - year: 2016
     client: /uploads/ppsl-mobil.png
     vessel: Siem Daya 1

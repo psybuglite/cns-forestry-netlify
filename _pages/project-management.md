@@ -5,6 +5,7 @@ permalink: "/services/project-management/"
 description: We are commited to excellent service with a drive to accomplish our goals.
 show_on_services: true
 grid: true
+order:  1
 service: true
 summary: Projects, especially large-scale projects involving a diversiy of disciplines, would hardly succeed in the absence of a clear management structure and progress.
 headline:

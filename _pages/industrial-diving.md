@@ -5,6 +5,7 @@ permalink: "/services/industrial-diving/"
 description: We are commited to excellent service with a drive to accomplish our goals.
 show_on_services: true
 grid: true
+order:  3
 service: true
 summary: We provide Air and Saturation diving, Underwater Remote Video Survey as well as a full range of required specialist underwater tools and equipment.
 headline:

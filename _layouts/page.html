@@ -14,8 +14,11 @@ layout: default
         {% if page.title == "Services" %}
             <div class="main-wrap wrapper mx-auto">
                 <div class="grid is-multi-col mostly-3">
-                    {% assign pages = site.pages | where: 'show_on_services', 'true' %}
-                    {% for page in pages %}
+                    <!-- {% assign pages = site.pages | where: 'show_on_services', 'true' %} -->
+
+                    {% assign sorted = site.pages | where: 'show_on_services', 'true' | sort: 'order' %}
+
+                    {% for page in sorted %}
                         <div class="rad-s brashshadow bg-primary">
                             <img src="{{ site.url }}{{ page.headline.image }}" alt="" class="desired-height-1qtr">
                             <div class="bg-primary wrapper">

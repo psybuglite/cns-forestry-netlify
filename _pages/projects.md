@@ -25,20 +25,20 @@ projects:
   - year: 2019
     client: /uploads/client-4.png
     vessel: 
-    location: 
+    location: Offshore, Nigeria
     description: Subsea Intervention and Construction Services
     duration: 2019
   - year: 2017
     client: /uploads/ppsl-mobil.png
     vessel: 
-    location: 
+    location: Offshore, Nigeria
     description: Offshore Facilities Managment Services
     duration: 2017 – 2018
   - year: 2016
     client: /uploads/ppsl-mobil.png
     vessel: Siem Daya 1
-    location: Revamp Pipeline Project
-    description: 
+    location: 
+    description: Revamp Pipeline Project
     duration: May 2016 – March 2018
   - year: 2016
     client: /uploads/total.png

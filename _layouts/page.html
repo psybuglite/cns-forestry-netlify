@@ -67,12 +67,12 @@ layout: default
             <div class="grid is-multi-col mostly-2">
                 <div>
                     <p class="mediumtext">{{ page.equipments.body | markdownify }}</p>
-                    <p class="py-2">
-                        <a href="{{site.url}}/operations/projects/">
-                            View our comprehensive list of projects.
-                        </a>
-                    </p>
                 </div>
+                <p class="py-1 tx-c">
+                    <a href="{{site.url}}/operations/projects/">
+                        View our comprehensive list of projects.
+                    </a>
+                </p>
             </div>
             <div class="grid is-multi-col mostly-4">
                 {%- for equipment in page.equipment_images -%}

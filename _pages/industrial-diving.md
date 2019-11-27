@@ -39,12 +39,7 @@ left_content:
 right_content:
   title: Air/Saturation Diving
   body: |-
-    CNS Saturation diving systems are all six or nine men modular systems especially designed to achieve the easiest and fastest transportability solutions wherever in the world the client is requesting them thanks to the ISO standard containerized design of all modules. Being modular systems they can also be laid out taking into consideration any vessel’s deck features. The diving bell is launched and recovered by means of a hydraulic "A" frame that can be deployed over a vessel side or the moon pool.
+    CNS International currently owns and operates three portable saturation diving systems, ranging from 6 to 15 men capacity and featuring either SPHL or HRC evacuation systems. The diving systems are in line with IMCA guidelines and in class with major Classification Societies.
 
-    All saturation diving system are fitted with a floatable H.R.C. (Hyperbaric Rescue Chamber) and have been designed and built to meet all international criteria and in particular IMCA diving safety certifications.
-
-    Besides the aforesaid saturation systems, CNS is able to provide air diving systems that are fully compliant to IMCA standards.
-    All decompression chambers on all dive spreads are containerized (20' ISO) and are fully air conditioned. All equipment is subject to a strict planned maintenance system
-
-    Divers equipment is made up of Kirby Morgan helmets, umbilical, harness complete with emergency bail out bottles, communication systems and all necessary ancillary equipment.   
+    CNS International currently owns and operates 4 surface supplied diving systems allowing either Air and Nitrox operations, in addition to a total of 3 mobile / portable surface supplied diving systems (Scuba Replacement System).
 ---

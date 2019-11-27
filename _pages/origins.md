@@ -19,9 +19,13 @@ client_logos:
 left_content:
   title: Origins
   body: |-
-    Our minority partner CNS INTERNATIONAL srl is the evolution of the former group diving company CNS-SOC. COOP. NAZIONALE SOMMOZZATORI founded in 1988 by a previous group of SAIPEM (ENI Group)  senior divers, diving supervisors and diving superintendents, in order to expand and develop its own business on a world wide scale. In Nigeria, we have formed a partnership with CNS International that is focused on building local capacity and offering training and human capital development.
+    CNS International srl is a diving contractor, with 30+ years experience, worldwide providing saturation diving, surface supplied (Air/Nitrox) diving, ROV inspection & work class services, post-trenching services, NDT, etc
 
-    CNS INTERNATIONAL carries out numerous international projects and has an excellent track record with clients. CNS group continues to grow globally and remains a major player in the Air / Sat diving industry, with improving results both in terms of performance and safety procedures.
+    CNS International srl is an IMCA (International Marine Contractor Association) Contractor member in Diving and Remote System Division, it is a member of AISI (Associazione Imprese Subacquee Italiane), it is registered and verified by Achilles FPAL (First Point Assessment LTD) and has been qualified by main contractors and major oil companies worldwide, including various IOGP members, such as; BP, Chevron, Eni, Exxon Mobil, Repsol, Total, etc.
+
+    CNS International srl Quality Management System compliance with **ISO 9001:2015** and Safety Management System compliance with **OHSAS 18001:2007** are both certified by DNV. Majority of the projects undertaken during its 30+ years experience, have seen CNS International srl delivering its services for construction diving activities meeting the strictest safety requirements in the industry while performing on schedule and to the complete satisfaction of its clients. In Nigeria, CNS International is focused on building local capacity and offering training and human capital development.
+
+    CNS International carries out numerous international projects and has an excellent track record with clients. CNS group continues to grow globally and remains a major player in the Air/Sat diving industry, with improving results both in terms of performance and safety procedures.
 
     The mission of the CNS group is directed to satisfying its clients' needs and to reach a recognized leadership in the industrial diving services field.
 

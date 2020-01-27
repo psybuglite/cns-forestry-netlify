@@ -18,7 +18,7 @@ client_logos:
 left_content:
   title: Company Overview
   body: |-
-    CNS MARINE NIGERIA LIMITED (herein after referred to as CNS MARINE) is a privately owned indigenous company, focusing on the upstream sector of the Nigerian oil & gas industry, more specifically subsea related opportunities to include Construction, Inspection, Repair and Maintenance activities utilising our comprehensive Air Diving, Saturation Diving and ROV equipment.
+    CNS MARINE NIGERIA LIMITED (herein after referred to as CNS MARINE) is a privately owned indigenous company, focusing on the upstream sector of the Gulf of Guinea oil & gas industry, more specifically subsea related opportunities that includes Construction, Inspection, Repair and Maintenance activities utilising our comprehensive Air Diving, Saturation Diving and ROV, and offshore vessels.
 
     CNS MARINE is incorporated under the laws of the Federal Republic of Nigeria. The company was registered on 8th of July, 2011. CNS MARINE is a majority owned Nigerian Company. We believe we offer a more personalized approach to contracting which in turn offers a rapid response and a quality service to the customer at a lower cost.
 

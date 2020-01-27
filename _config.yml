@@ -5,7 +5,7 @@ legal_tag: CNS
 description: Work with experienced reliability professionals to develop strategic plans with proven methods, enabling you to maximize production capacity.
 url: https://cnsmarine-nigeria.com
 footer_description: Your success is our success. We are driven by a motivation to see you succeed, and we’d love to hear what you have in mind.
-# timezone: Africa/Lagos
+timezone: Africa/Lagos
 
 
 # Handling Reading
@@ -24,8 +24,6 @@ mainnav:
   - section: About Us
     url: /about/
     pages:
-      - page: Origins
-        url: /about/origins/
       - page: Mission & Values
         url: /about/mission-values/
       - page: Safety Assurance

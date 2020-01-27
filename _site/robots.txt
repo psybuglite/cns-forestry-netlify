@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/sitemap.xml
+Sitemap: https://cnsmarine-nigeria.com/sitemap.xml

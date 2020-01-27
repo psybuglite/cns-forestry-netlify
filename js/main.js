@@ -1,8 +1,8 @@
 /**
   * Main JS File
   *
-  * @package  hdy
-  * @author   Kabolobari Benakole <i@kb.life>
+  * @package  cns
+  * @author   Tonye Dickson <itztonye@gmail.com>
 */
 
 // Re-wrap images and iframes with figure element

@@ -61,7 +61,7 @@ layout: default
         <div class="grid-2 is-multi-col mostly-s2">
             {% assign pages = site.pages | where: 'show_on_about', 'true' %}
             {% for page in pages %}
-                <a href="{{ page.url | prepend: site.url }}" class="d-blk pos-r co-white desired-height-1qtr scale">
+                <a href="{{ page.url | prepend: site.url }}" class="d-blk pos-r co-white desired-height-1qtr scale show-about">
                     <img src="{{ page.headline.image }}" class="fit-cover" alt="">
                     <div class="z-depth-2 bg-dark-cover pos-a w-100 h-100 top-0">
                         <h3 class="microtext center-center m-0 tx-c w-100 co-white">{{ page.title }}</h3>

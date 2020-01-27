@@ -1,8 +1,8 @@
 // 
     // Grid
 
-    // @package hdy
-    // @author  Kabolobari Benakole <i@kb.life>
+    // @package cns
+    // @author  Tonye Dickson <itztonye@gmail.com>
 
 // Widths
 .width-100-pc
@@ -25,7 +25,6 @@
     @media screen and (min-width: 1500px)
         max-width:      1400px
 
-
 // The Grid
 .grid-2
     display:                        grid
@@ -34,6 +33,8 @@
         grid-template-columns:      repeat(auto-fill, minmax(150px, 1fr))
         @media #{ $largeup }
             grid-template-columns:  repeat(auto-fill, minmax(300px, 1fr))
+    .show-about
+        grid-column:                1 / 3
 .grid
     display:                        grid
     grid-template-columns:          repeat(12, 1fr)

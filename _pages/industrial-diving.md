@@ -39,7 +39,5 @@ left_content:
 right_content:
   title: Air/Saturation Diving
   body: |-
-    CNS International currently owns and operates three portable saturation diving systems, ranging from 6 to 15 men capacity and featuring either SPHL or HRC evacuation systems. The diving systems are in line with IMCA guidelines and in class with major Classification Societies.
-
-    CNS International currently owns and operates 4 surface supplied diving systems allowing either Air and Nitrox operations, in addition to a total of 3 mobile / portable surface supplied diving systems (Scuba Replacement System).
+    CNS currently operates the following equipment; 3 portable saturation diving systems, ranging from 6 to 15 men capacity and featuring either SPHL or HRC evacuation systems, and also 4 surface supplied diving systems allowing either Air and Nitrox operations. In addition to a total of 3 mobile / portable surface supplied diving systems (Scuba Replacement System). Air diving systems are in line with IMCA guidelines and in class with major Classification Societies.
 ---

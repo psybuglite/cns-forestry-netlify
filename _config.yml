@@ -39,8 +39,10 @@ mainnav:
         url: /services/procurement/
       - page: Project Management
         url: /services/project-management/
-      - page: Onshore Inspection
-        url: /services/onshore-inspection/
+      - page: ROV Services
+        url: /services/rov-services/
+      - page: IRM Services
+        url: /services/irm-services/
       - page: Subsea Engineering
         url: /services/subsea-engineering/
       - page: Vessel Provisioning

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: ROV Services (IMR)
-permalink: "/services/rov-services/"
+title: IRM Services
+permalink: "/services/irm-services/"
 description: We are commited to excellent service with a drive to accomplish our goals.
 show_on_services: true
 grid: true
@@ -10,7 +10,7 @@ service: true
 summary: Inspection of field equipments increases boosts how much we can achieve and we spare no effort to bring out the best at all times.
 headline:
   image: "/uploads/ultrasonic-testing.jpg"
-  title: "ROV Services (IMR)"
+  title: "IRM Services"
 client_logos:
   - /uploads/client-1.png
   - /uploads/client-2.png
@@ -21,13 +21,17 @@ client_logos:
   - /uploads/client-7.png
   - /uploads/client-8.png
 left_content:
-  title: ROV Services (IMR)
+  title: IRM Services
   body: |-
-    - Radiographic Inspection, Crawler RT
-    - Liquid/Dye Penetrant Inspection 
-    - Magnetic Particle Inspection 
-    - Ultrasonic Inspection 
-    - Visual Inspection 
-    - Holiday Detection 
-    - Painting and Coating Inspection
+    With an established integrity management system, we support our clients with Subsea Inspection, Repair and Maintenance Services that include:
+
+    - Underwater inspection in lieu of dry dock (UWILD) surveys for offshore installations andvessels
+    - Pile wrapping
+    - Underwater jetting
+    - Subsea grit entrained cleaning systems
+    - Anode replacement
+    - Cathodic protection inspections
+    - Riser clamp change out
+    - Mattress laying
+    - Cable inspection and fault finding
 ---

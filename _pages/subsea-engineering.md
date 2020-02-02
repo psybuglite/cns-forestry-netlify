@@ -23,11 +23,7 @@ client_logos:
 left_content:
   title: Subsea Engineering
   body: |-
-    - Subsea component change-out 
-    - Structural repair and monitoring 
-    - Anchor chain inspection and measurement 
-    - Leak investigation and remediation 
-    - Eddy current inspection for Pipeline and Structures 
-    - Flooded Member Detection surveys 
-    - CP Surveys  of Pipelines and Structures
+    With our wholly owned indigenous partner company, Deepwater Concession Limited (DWC), we offer engineering Subsea Asset Engineering Services focused on development and operational requirements to recommend, design and implement solutions specific to their own needs. We also work with clients to develop field opportunities from conceptual studies to execution phase.
+
+    We provide our clients with safe, cost effective solutions and reduce interface inefficiencies whilst maintaining the highest level of quality and subsequent deliveries. Offer continuous aftermarket field life technical support with the use of our offshore vessels for IRM and construction operations.
 ---

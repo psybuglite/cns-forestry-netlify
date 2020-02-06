@@ -1,12 +1,12 @@
 ---
-title: Track Record
+title: Sample Projects
 layout: page
 permalink: /operations/projects/
 grid: true
 description: Our projects are executed in collaboration with CNS International.
 headline:
   image: "/uploads/about.jpg"
-  title: "Track Record"
+  title: "Sample Projects"
 client_logos:
   - /uploads/client-1.png
   - /uploads/client-2.png
@@ -18,7 +18,7 @@ client_logos:
   - /uploads/client-8.png
 
 track_record:
-  title: CNS Marine Track Record
+  title: CNS Marine Sample Projects
   summary: Our projects are executed in collaboration with CNS International
 
 projects:
@@ -28,16 +28,16 @@ projects:
     location: Offshore, Nigeria
     description: Subsea Intervention and Construction Services
     duration: 2019
-  - year: 2017
+  - year: 2018
     client: /uploads/ppsl-mobil.png
     vessel: 
     location: Offshore, Nigeria
-    description: Offshore Facilities Managment Services
+    description: Offshore Vessel Supply (Crew, Boats, PSVs, OMR Vessel)
     duration: 2017 – 2018
-  - year: 2016
+  - year: 2017
     client: /uploads/ppsl-mobil.png
     vessel: Siem Daya 1
-    location: 
+    location: Offshore, Nigeria
     description: Revamp Pipeline Project
     duration: May 2016 – March 2018
   - year: 2016
@@ -46,12 +46,6 @@ projects:
     location: OML 130 Akpo Field, Offshore Nigeria
     description: Offshore Security Personnel Vessel
     duration: Sept 2016 - Nov 2016
-  - year: 2016
-    client: /uploads/erin.png
-    vessel: MDPL Conquerer
-    location: OML 120/121, Offshore Nigeria
-    description: FPSO Crude Offtake Campaign Q3
-    duration: Aug 2016 – Sept 2016
   - year: 2016
     client: /uploads/erin.png
     vessel: Island Constructor
@@ -89,12 +83,6 @@ projects:
     description: Pipeline Installation
     duration: May 2013 - July 2013
   - year: 2012
-    client: /uploads/saipem.png
-    vessel: Swiber Atlantis	
-    location: Egypt
-    description: Sat. Diving Services - Spooling tie ins activities. ROV - Platform and Pipeline Survey
-    duration: Dec 2011 - Mar 2012
-  - year: 2012
     client: /uploads/npdc.png
     vessel: MV Endeavor	
     location: OML 123 - Okpoho-Okono Field
@@ -112,46 +100,4 @@ projects:
     location: Nigeria / Sat System Maintenance Project
     description: Sat System Maintenance Activities
     duration:
-  - year: 2010
-    client: /uploads/saipem.png
-    vessel: HLV SAIPEM 3000
-    location: Ivory Coast / Djambala Project	
-    description: Diving Services - Spooling tie ins activities
-    duration: Jan. 2010 - Feb. 2010
-  - year: 2010
-    client: /uploads/saipem.png
-    vessel: HLV SAIPEM 3000
-    location: Ivory Coast / Libondo Project
-    description: Diving Services - Spooling tie ins activities
-    duration: Mar 2010 - Apr 2010
-  - year: 2010
-    client: /uploads/saipem.png
-    vessel: HLV SAIPEM 3000
-    location: Angola / GEP 17 Project
-    description: Sat. Diving Services - Spooling tie ins activities, ROV - Platform and Pipeline Survey
-    duration: Aug 2010 - Sep 2010
-  - year: 2010
-    client: /uploads/exxonmobil.png
-    vessel: Bar Protector
-    location: Nigeria / USARI - IDOHO Project
-    description: Sat & Air Diving Services - Spools & Risers Installation
-    duration: Oct 2010 - Dec 2010
-  - year: 2010
-    client: /uploads/exxonmobil.png
-    vessel: Bar Protector
-    location: Nigeria / Critical Crude Project
-    description: Sat & Air Diving Services - Spools & Risers Instalation
-    duration: Oct 2010 - Sep 2011
-  - year: 2009
-    client: /uploads/adamsoffshore.png
-    vessel: MV Ocean Commander
-    location: Ivory Coast / Lion A B Panthere CD, Gulf Tide MOPPWest Espoir Field Development Project
-    description: Sat. Diving Services - Platform Inspection, ROV - Pipeline Inspection
-    duration: Feb 2009 - Apr 2009
-  - year: 2009
-    client: /uploads/saipem.png
-    vessel: HLV SAIPEM 3000
-    location: Angola / GEP 17 Project
-    description: Sat. Diving Services - Spooling tie ins activities
-    duration: Nov 2009 - Dec 2009
 ---

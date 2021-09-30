@@ -22,15 +22,33 @@ track_record:
   summary: Our projects are executed in collaboration with CNS International
 
 projects:
+  - year: 2021
+    client: /uploads/total.png
+    vessel: Swiber Resolute
+    location: Offshore, Nigeria
+    description: Diving Operation
+    duration: 2021
+  - year: 2021
+    client: /uploads/client-4.png
+    vessel: Bourbon 802
+    location: Offshore, Nigeria
+    description: ABO Central Control Leakage - Offshore Intervention
+    duration: December 2020 - April 2021
+  - year: 2020
+    client: /uploads/client-4.png
+    vessel: MV Kalaface
+    location: Offshore, Nigeria
+    description: ABO Central Subsea Hydraulic Loss - Emergency Subsea Intervention
+    duration: April 2020 - present
   - year: 2019
     client: /uploads/client-4.png
-    vessel: 
+    vessel: Mo Toucan
     location: Offshore, Nigeria
     description: Subsea Intervention and Construction Services
     duration: 2019
   - year: 2018
     client: /uploads/ppsl-mobil.png
-    vessel: 
+    vessel: MPSV Topaz Captain
     location: Offshore, Nigeria
     description: Offshore Vessel Supply (Crew, Boats, PSVs, OMR Vessel)
     duration: 2017 – 2018
